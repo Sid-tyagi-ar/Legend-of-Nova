@@ -1,1 +1,1 @@
-# This is the Game made for submission for BYOG.
+# This repositary contains the Game made for submission for BYOG.
